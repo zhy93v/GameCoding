@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A2D074D-464D-4A75-B43E-2E9437344448}|GameCoding\\GameCoding.vcxproj|D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A2D074D-464D-4A75-B43E-2E9437344448}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7A2D074D-464D-4A75-B43E-2E9437344448}|GameCoding\\GameCoding.vcxproj|D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2D074D-464D-4A75-B43E-2E9437344448}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2D074D-464D-4A75-B43E-2E9437344448}|GameCoding\\GameCoding.vcxproj|D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\GBB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A2D074D-464D-4A75-B43E-2E9437344448}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GBB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameCoding.cpp",
-              "DocumentMoniker": "D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\GameCoding.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\GameCoding.cpp",
-              "ToolTip": "D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\GameCoding.cpp",
-              "RelativeToolTip": "GameCoding\\GameCoding.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "GBB.cpp",
+              "DocumentMoniker": "D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\GBB.cpp",
+              "RelativeDocumentMoniker": "GameCoding\\GBB.cpp",
+              "ToolTip": "D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\GBB.cpp",
+              "RelativeToolTip": "GameCoding\\GBB.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-07T05:14:37.239Z",
+              "WhenOpened": "2024-06-08T12:48:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.cpp",
+              "DocumentMoniker": "D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\Function.cpp",
+              "RelativeDocumentMoniker": "GameCoding\\Function.cpp",
+              "ToolTip": "D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\Function.cpp",
+              "RelativeToolTip": "GameCoding\\Function.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-08T12:44:44.832Z",
               "EditorCaption": ""
             }
           ]
