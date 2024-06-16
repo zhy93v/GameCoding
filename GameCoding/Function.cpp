@@ -1,3 +1,6 @@
+/*
+
+
 #include <iostream>
 using namespace std;
 
@@ -248,3 +251,6 @@ void WaitForNextKey()
 
 	system("cls");
 }
+
+
+*/
