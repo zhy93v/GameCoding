@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "G:\\GameCoding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A2D074D-464D-4A75-B43E-2E9437344448}|GameCoding\\GameCoding.vcxproj|G:\\GameCoding\\GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7A2D074D-464D-4A75-B43E-2E9437344448}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E2BE441E-2D17-4223-817C-FAC4934D303B}|RPG\\RPG.vcxproj|G:\\GameCoding\\RPG\\RPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2BE441E-2D17-4223-817C-FAC4934D303B}|RPG\\RPG.vcxproj|solutionrelative:RPG\\RPG.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE441E-2D17-4223-817C-FAC4934D303B}|RPG\\RPG.vcxproj|G:\\GameCoding\\RPG\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2BE441E-2D17-4223-817C-FAC4934D303B}|RPG\\RPG.vcxproj|solutionrelative:RPG\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BE441E-2D17-4223-817C-FAC4934D303B}|RPG\\RPG.vcxproj|G:\\GameCoding\\RPG\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2BE441E-2D17-4223-817C-FAC4934D303B}|RPG\\RPG.vcxproj|solutionrelative:RPG\\Item.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 135,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.h",
+              "DocumentMoniker": "G:\\GameCoding\\RPG\\Item.h",
+              "RelativeDocumentMoniker": "RPG\\Item.h",
+              "ToolTip": "G:\\GameCoding\\RPG\\Item.h",
+              "RelativeToolTip": "RPG\\Item.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-09T07:07:38.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RPG.cpp",
+              "DocumentMoniker": "G:\\GameCoding\\RPG\\RPG.cpp",
+              "RelativeDocumentMoniker": "RPG\\RPG.cpp",
+              "ToolTip": "G:\\GameCoding\\RPG\\RPG.cpp",
+              "RelativeToolTip": "RPG\\RPG.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T07:04:19.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 135,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameCoding.cpp",
-              "DocumentMoniker": "G:\\GameCoding\\GameCoding\\GameCoding.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\GameCoding.cpp",
-              "ToolTip": "G:\\GameCoding\\GameCoding\\GameCoding.cpp",
-              "RelativeToolTip": "GameCoding\\GameCoding.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Item.cpp",
+              "DocumentMoniker": "G:\\GameCoding\\RPG\\Item.cpp",
+              "RelativeDocumentMoniker": "RPG\\Item.cpp",
+              "ToolTip": "G:\\GameCoding\\RPG\\Item.cpp",
+              "RelativeToolTip": "RPG\\Item.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAADgv0cAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-14T06:05:27.345Z",
+              "WhenOpened": "2024-07-09T07:07:45.987Z",
               "EditorCaption": ""
             }
           ]
