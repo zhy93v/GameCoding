@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{FB66D317-8E6D-443E-B533-3FCBA1495895}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9492B59F-4938-469A-B52E-9C6D0ED10E2E}|RPGGame\\RPGGame.vcxproj|D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\RPGGame\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9492B59F-4938-469A-B52E-9C6D0ED10E2E}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\RPGGame\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RPGGame\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9492B59F-4938-469A-B52E-9C6D0ED10E2E}|RPGGame\\RPGGame.vcxproj|D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9492B59F-4938-469A-B52E-9C6D0ED10E2E}|RPGGame\\RPGGame.vcxproj|solutionrelative:RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RPGGame\\RPGGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,7 @@
               "RelativeToolTip": "RPGGame\\Item.h",
               "ViewState": "AQIAAAYAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-12T03:04:24.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T03:04:24.037Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "GameCoding\\GameCoding.cpp",
               "ToolTip": "D:\\Epic_Games\\Projects\\inflearn\\GameCoding\\GameCoding\\GameCoding.cpp",
               "RelativeToolTip": "GameCoding\\GameCoding.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-12T02:49:54.639Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "RPGGame\\RPGGame.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-10T06:05:03.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T06:05:03.025Z"
             }
           ]
         }
