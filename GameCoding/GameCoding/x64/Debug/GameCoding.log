@@ -1,3 +1,2 @@
 ﻿  GameCoding.cpp
-D:\Epic_Games\Projects\GameCoding\GameCoding\GameCoding\GameCoding.cpp(28,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  GameCoding.vcxproj -> D:\Epic_Games\Projects\GameCoding\GameCoding\x64\Debug\GameCoding.exe
+  GameCoding.vcxproj -> H:\GameCoding\GameCoding\x64\Debug\GameCoding.exe
