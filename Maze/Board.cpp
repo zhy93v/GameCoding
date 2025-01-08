@@ -99,7 +99,7 @@ TileType Board::GetTileType(Pos pos)
 ConsoleColor Board::GetTileColor(Pos pos)
 {
 
-	if (_player && _player->GetPos() = pos)
+	if (_player && _player->GetPos() == pos)
 		return ConsoleColor::YELLOW;
 
 	if (GetExitPos() == pos)

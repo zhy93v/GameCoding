@@ -11,6 +11,11 @@ void Player::Init(Board* board)
 	CalculatePath();
 }
 
+void Player::Update(uint64 deltaTick)
+{
+
+}
+
 void Player::CalculatePath()
 {
 

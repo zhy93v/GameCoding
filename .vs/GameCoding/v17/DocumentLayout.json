@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "H:\\GameCoding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|H:\\GameCoding\\Maze\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|H:\\GameCoding\\Maze\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|H:\\GameCoding\\Maze\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|H:\\GameCoding\\Maze\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|H:\\GameCoding\\Maze\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|H:\\GameCoding\\Maze\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|H:\\GameCoding\\Maze\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|solutionrelative:Maze\\Maze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C3C0C5C-9CED-4CD2-B810-FB8D1DFD9EE5}|Maze\\Maze.vcxproj|H:\\GameCoding\\Maze\\Types.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -58,33 +58,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 181,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Player.cpp",
               "DocumentMoniker": "H:\\GameCoding\\Maze\\Player.cpp",
               "RelativeDocumentMoniker": "Maze\\Player.cpp",
               "ToolTip": "H:\\GameCoding\\Maze\\Player.cpp",
               "RelativeToolTip": "Maze\\Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-08T03:43:19.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T03:43:19.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Board.cpp",
               "DocumentMoniker": "H:\\GameCoding\\Maze\\Board.cpp",
               "RelativeDocumentMoniker": "Maze\\Board.cpp",
               "ToolTip": "H:\\GameCoding\\Maze\\Board.cpp",
               "RelativeToolTip": "Maze\\Board.cpp",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGYAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAtwGUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-08T03:14:33.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T03:14:33.698Z"
             },
             {
               "$type": "Document",
@@ -100,13 +98,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Player.h",
               "DocumentMoniker": "H:\\GameCoding\\Maze\\Player.h",
               "RelativeDocumentMoniker": "Maze\\Player.h",
               "ToolTip": "H:\\GameCoding\\Maze\\Player.h",
               "RelativeToolTip": "Maze\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-03T10:43:33.725Z",
               "EditorCaption": ""
@@ -121,21 +119,19 @@
               "RelativeToolTip": "Maze\\ConsoleHelper.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-03T10:43:22.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T10:43:22.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Board.h",
               "DocumentMoniker": "H:\\GameCoding\\Maze\\Board.h",
               "RelativeDocumentMoniker": "Maze\\Board.h",
               "ToolTip": "H:\\GameCoding\\Maze\\Board.h",
               "RelativeToolTip": "Maze\\Board.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-03T10:42:59.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T10:42:59.654Z"
             },
             {
               "$type": "Document",
@@ -159,8 +155,7 @@
               "RelativeToolTip": "Maze\\Types.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-03T10:37:54.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T10:37:54.886Z"
             },
             {
               "$type": "Document",
@@ -188,16 +183,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Maze.cpp",
               "DocumentMoniker": "H:\\GameCoding\\Maze\\Maze.cpp",
               "RelativeDocumentMoniker": "Maze\\Maze.cpp",
               "ToolTip": "H:\\GameCoding\\Maze\\Maze.cpp",
               "RelativeToolTip": "Maze\\Maze.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-31T00:37:16.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T00:37:16.482Z"
             },
             {
               "$type": "Document",
